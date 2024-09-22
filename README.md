@@ -22,7 +22,6 @@ The dataset used is Reddit comments, which includes the following columns:
 - permalink
 - token_size
 - perplexity
-- embeddings
 
     
 
