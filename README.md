@@ -23,5 +23,15 @@ The dataset used is Reddit comments, which includes the following columns:
 - token_size
 - perplexity
 
-    
+## Results
+In this project, we investigated link prediction in social networks using graph neural networks (GNN) and machine learning algorithms. In this work, a combination of BERT and GNN is used to create text embeddings of posts. The results show that the combination of BERT and GNN has significantly improved the prediction accuracy and highlights the effective application of GNN in the field of NLP. These findings serve as a foundation for future research and applications in this field.
+
+## Evaluation Metrics
+- **Accuracy**
+- **ROC-AUC**
+- **Recall**
+- **Precision**
+- **F1-Score**
+
+
 
